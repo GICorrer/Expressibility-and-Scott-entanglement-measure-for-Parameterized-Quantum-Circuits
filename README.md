@@ -1,6 +1,6 @@
 # Expressibility-and-Scott-entanglement-measure-for-Parameterized-Quantum-Circuits
 
-This repository has most of the codes I applied during my master's. I present some numerical calculations of expressibility, Scott entanglement measure 1 and 2 and t-designs estimation for different parameterized quantum circuits.
+This repository has most of the codes I applied during my master's. I present some numerical calculations of expressibility, Scott entanglement measure 1 and 2 and t-designs estimation for different parameterized quantum circuits. The calculations were performed using scipy, numpy python libraries for special functions and Pennylane (Xanadu) library for the quantum circuits part.
 
 It has 3 main folders and it is organized as a function of the calculations performed: Expressibility quantifier, average entanglement and t-design estimation. Each of the folders has a special file that should be read before the others, where the calculations performed are introduced. They are identified with a "double star" (**) next to their name. The capital letters names are the main folders, "->" indicates a subpath inside the folder and the other names are the files. Some file names inside the folders are omitted to simplify the presentation.
 
