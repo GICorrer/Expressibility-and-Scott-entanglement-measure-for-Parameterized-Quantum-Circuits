@@ -8,34 +8,37 @@ I advise you to start with the expressibility folder, move to the entanglement a
 
 The structure is as follows:
 
-EXPRESSIBILITY
+## EXPRESSIBILITY
 
-->Definitions_and_simplecodes_expressibility
-    **Expressibility_0_Onequbit_example.ipynb (presents the method and a simple 1 qubit example)
+### ->Definitions_and_simplecodes_expressibility
 
-    Expressibility_1_onelayer_topologyofcircuits_.ipynb (introduces the circuits we are studying for only one layer)
+   **Expressibility_0_Onequbit_example.ipynb (presents the method and a simple 1 qubit example)
 
-    Expressibility_2_ansatz1_multiplelayers_topologyofcircuits.ipynb (generalizes the circuits with Ansatz 1 structure for multiple layers)
+   Expressibility_1_onelayer_topologyofcircuits_.ipynb (introduces the circuits we are studying for only one layer)
 
-    Expressibility_3_ansatz2_multiplelayers_topologyofcircuits.ipynb (circuits with Ansatz 2 structure for multiple layers)
+   Expressibility_2_ansatz1_multiplelayers_topologyofcircuits.ipynb (generalizes the circuits with Ansatz 1 structure for multiple layers)
 
-->Final_codes_datageneration_expressibility (has the codes that generate the expressibility data outputs)
+   Expressibility_3_ansatz2_multiplelayers_topologyofcircuits.ipynb (circuits with Ansatz 2 structure for multiple layers)
 
-AVERAGE_ENTANGLEMENT
+### ->Final_codes_datageneration_expressibility (has the codes that generate the expressibility data outputs)
 
-->Definitions_and_simplecodes_entanglement
-    **Entanglementcapability_ansatz1_multiplelayers_topologyofcircuits.ipynb (presents the quantifier and performs the calculations for circuit Ansatz 1)
+## AVERAGE_ENTANGLEMENT
 
-    Entanglementcapability_ansatz2_multiplelayers_topologyofcircuits.ipynb (calculations for circuit Ansatz 2)
+### ->Definitions_and_simplecodes_entanglement
 
-->Final_codes_datageneration_entanglement_MW_S1quantifier (has the codes that generate the average entanglement data outputs for quantifier Scott 1)
+   **Entanglementcapability_ansatz1_multiplelayers_topologyofcircuits.ipynb (presents the quantifier and performs the calculations for circuit Ansatz 1)
 
-->Final_codes_datageneration_entanglement_S2quantifier (has the codes that generate the average entanglement data outputs for quantifier Scott 2)
+   Entanglementcapability_ansatz2_multiplelayers_topologyofcircuits.ipynb (calculations for circuit Ansatz 2)
+
+### ->Final_codes_datageneration_entanglement_MW_S1quantifier (has the codes that generate the average entanglement data outputs for quantifier Scott 1)
+
+### ->Final_codes_datageneration_entanglement_S2quantifier (has the codes that generate the average entanglement data outputs for quantifier Scott 2)
 
 
-T-DESIGN_ESTIMATION
+## T-DESIGN_ESTIMATION
 
-->Single_test (presents the calculations of the t-design closeness quantifier for a single test)
-    **Ansatz1_2design_test.ipynb
+### ->Single_test (presents the calculations of the t-design closeness quantifier for a single test)
+   
+   **Ansatz1_2design_test.ipynb
 
-->Averaged_case_with_stdeviation (presents the calculations of the t-design closeness quantifier performed many times and then averaged. The standard deviation is also an output.)
+### ->Averaged_case_with_stdeviation (presents the calculations of the t-design closeness quantifier performed many times and then averaged. The standard deviation is also an output.)
