@@ -4,7 +4,7 @@ This repository has most of the codes I applied during my master's. I present so
 
 It has 3 main folders and it is organized as a function of the calculations performed: Expressibility quantifier, average entanglement and t-design estimation. Each of the folders has a special file that should be read before the others, where the calculations performed are introduced. They are identified with a "double star" (**) next to their name. The capital letters names are the main folders, "->" indicates a subpath inside the folder and the other names are the files. Some file names inside the folders are omitted to simplify the presentation.
 
-I advise you to start with the expressibility folder, move to the entanglement and after that to t-design estimation. Details on the definitions and usage of the quantifiers are presented in Guilherme Ilário Correr, "Exploring the role of qubit connectivity in expressibility and entanglement of parameterized quantum circuits architectures" - Universidade de São Paulo - Brazil (2024).
+I advise you to start with the expressibility folder, move to the entanglement and after that to t-design estimation. Details on the definitions and usage of the quantifiers are presented in Guilherme Ilário Correr, "Exploring the role of qubit connectivity in expressibility and entanglement of parameterized quantum circuits architectures" - Universidade de São Paulo - Brazil (2024) <https://www.teses.usp.br/teses/disponiveis/76/76134/tde-24042024-083735/en.php>.
 
 The structure is as follows:
 
